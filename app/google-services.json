@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40530054689",
+    "firebase_url": "https://matajer-280117.firebaseio.com",
+    "project_id": "matajer-280117",
+    "storage_bucket": "matajer-280117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40530054689:android:ec60bcb6add9a1d3c2dd60",
+        "android_client_info": {
+          "package_name": "com.example.matajer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40530054689-7nua8lq47o77136hies9l619ofv0s8ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlyy0u-qdwmwkww3JXVdci91hoZMBqOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40530054689-7nua8lq47o77136hies9l619ofv0s8ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
